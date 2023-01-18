@@ -25,3 +25,5 @@
 ## Url do Github Pages
 
 > [Pomodoro app]()
+
+![Pomodoro App](./img/pomodoro-app.gif)
