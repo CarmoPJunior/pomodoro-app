@@ -4,19 +4,17 @@
 
 > Este é um exemplo de um pomodoro app usando apenas javascript e css;
 
----
 
 ## Requirements
 
 - Javascript
 
----
+
 ## Technologies Used:
 
 - Javascript;
 - CSS;
 
---- 
 
 ## Running 
 
@@ -25,5 +23,8 @@
 ## Url do Github Pages
 
 > [Pomodoro app]()
+
+
+
 
 ![Pomodoro App](./img/pomodoro-app.gif)
